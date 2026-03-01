@@ -1,0 +1,183 @@
+{
+    "attachments": [
+        {
+            "bucket": "image",
+            "bytes": 25259,
+            "hashes": {
+                "sha256": "77d544b67640f866855df38330372e8796b4064b17493e021a9eaeafbbda1f79"
+            },
+            "mimeType": "image/png",
+            "storagePath": "/2026/02/09e93f68ed34ec363efde58ca34ad639.png"
+        },
+        {
+            "bucket": "image",
+            "bytes": 31329,
+            "hashes": {
+                "sha256": "acd0e3b7b05900eedac37cae2949cfeb655f2685ade1af1627e35ccfc381b491"
+            },
+            "mimeType": "image/png",
+            "storagePath": "/2026/02/57c0694f552ba58449e93bd7ff9aed0e.png"
+        },
+        {
+            "bucket": "image",
+            "bytes": 29915,
+            "hashes": {
+                "sha256": "303e17ecebd7fcc5429d75b5ccae817ac45765bd54497d0fa8e01f989e47a7fe"
+            },
+            "mimeType": "image/png",
+            "storagePath": "/2026/02/984c494ce10f95f60d66fb208814ea2d.png"
+        },
+        {
+            "bucket": "image",
+            "bytes": 33595,
+            "hashes": {
+                "sha256": "9306aa150bda8874424ced9260ea0979cb355a13e638ad52db49f432cfdf6908"
+            },
+            "mimeType": "image/png",
+            "storagePath": "/2026/02/b0d45be6549c03cc6e973e4ef1b7941d.png"
+        }
+    ],
+    "author": {
+        "publicId": "bc1b2803-7b60-4420-ad71-9727ec08e27d"
+    },
+    "content": {
+        "body": {
+            "en": {
+                "strictHash": "6ecc8a6b48256019bdae83718234d647509379f164783284ca31b7ccb167c98b",
+                "wideHash": "3c12038e0881e61ba0d16271c7467ee00ff7f2f8bc605e929ab0fe44bdb851ed"
+            },
+            "kk": {
+                "strictHash": "a34383f0f196c711cf9fa408c8b6413e00050a592c948007a5059de0b2fd424a",
+                "wideHash": "6d9618aa39c0e697353b73291a822572762be4595979284d4dd5039066d89423"
+            },
+            "ru": {
+                "strictHash": "2d5da5a2ff0fa491f3a9fc7e56ae321f2b45b089654609f92a2f75e4bcee2f48",
+                "wideHash": "05d400c70dbc6574ca7ff3adbbfb364f379c7aeca6fd1b6fa3c036a36c61a49b"
+            },
+            "uk": {
+                "strictHash": "ccb6b50ca197517d0755e5379e83ee33d7ba3f2d2e4aea65da17e42a7445d808",
+                "wideHash": "3189a7816faf15a49dcfe10ba08e6b02529c73fe03dc451978e706f378cc8705"
+            }
+        },
+        "description": {
+            "en": {
+                "strictHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257",
+                "wideHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257"
+            },
+            "kk": {
+                "strictHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257",
+                "wideHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257"
+            },
+            "ru": {
+                "strictHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257",
+                "wideHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257"
+            },
+            "uk": {
+                "strictHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257",
+                "wideHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257"
+            }
+        },
+        "title": {
+            "en": {
+                "strictHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257",
+                "wideHash": "30de18cc4ea2bf4601b4d97e3dc591d762e5bf00400e320c319a1f03821c6257"
+            },
+            "kk": {
+                "strictHash": "de9aee75b80fd384de5a26d1b4d92dd3c5e26805bbb4d59908aae02babe3b93b",
+                "wideHash": "de9aee75b80fd384de5a26d1b4d92dd3c5e26805bbb4d59908aae02babe3b93b"
+            },
+            "ru": {
+                "strictHash": "889cc62a6e20b70b0dd11c060d318b961effedb9cc94648f1fb040fd5cd3a4ab",
+                "wideHash": "889cc62a6e20b70b0dd11c060d318b961effedb9cc94648f1fb040fd5cd3a4ab"
+            },
+            "uk": {
+                "strictHash": "f3d2e0946649b65da26e0f05a840e8794f8a4967157ffe1cf37a124d480781e7",
+                "wideHash": "f3d2e0946649b65da26e0f05a840e8794f8a4967157ffe1cf37a124d480781e7"
+            }
+        }
+    },
+    "events": [
+        {
+            "timestamp": "2026-02-28T21:19:51+00:00",
+            "type": "created"
+        },
+        {
+            "timestamp": "2026-02-28T21:38:36+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T21:52:22+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T21:52:28+00:00",
+            "type": "published"
+        },
+        {
+            "timestamp": "2026-02-28T21:53:57+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T22:17:58+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T22:18:56+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T22:23:40+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T22:31:14+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T22:35:40+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T22:35:58+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T22:36:12+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T22:36:31+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-02-28T22:37:53+00:00",
+            "type": "updated"
+        }
+    ],
+    "manifest": {
+        "canonicalization": {
+            "algorithm": "php-ksort-recursive+content-empty-map-as-object+json-encode-unescaped-non-pretty",
+            "jsonOptions": [
+                "JSON_UNESCAPED_UNICODE",
+                "JSON_UNESCAPED_SLASHES",
+                "JSON_THROW_ON_ERROR"
+            ]
+        },
+        "exclude": [
+            "manifest.contentRootHash"
+        ],
+        "hashAlgorithm": "sha256",
+        "manifestCreatedAt": "2026-02-28T22:37:53+00:00",
+        "manifestVersion": "pm-1",
+        "normalizerVersion": "norm-v1",
+        "prevContentRootHash": "3fc72fcb12752f9f6943dd8d376768abb55562daf6980b07501d4cdb98870271",
+        "contentRootHash": "85eded3de5982081704564ce5908493085b8d8a66519291c32bc119c493493a7"
+    },
+    "post": {
+        "canonicalUrl": "https://nova30.studio/blog/post/4",
+        "deleted": false,
+        "id": 4,
+        "lastUpdatedAt": "2026-02-28T22:37:53+00:00",
+        "published": true
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "attachments": [
+        {
+            "bucket": "image",
+            "bytes": 295806,
+            "hashes": {
+                "sha256": "02e78abbc7268caca2bf03a09d9f531eed99060886356e1cade446248e123a35"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/11563c96a0d141cf02fc5a3beca3b243.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 395785,
+            "hashes": {
+                "sha256": "1c9c655e82e129d21d161f1af4703715cc7cf6c2654f5203114d6676d83e955f"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/3a21bfa868df3f33129c654ea617ad23.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 351765,
+            "hashes": {
+                "sha256": "e307cabbdf73d35f0bb0d50cd71de593657a0f85c0680e81fd746827821d91fe"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/515521aaa80e31520f32cd7c77a08b21.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 332857,
+            "hashes": {
+                "sha256": "43c0f937461de353873c2ba56ffc37627d13da46038f1ba8a58d1a0bf612f445"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/5260d23b04c58211162331c7fc327194.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 297474,
+            "hashes": {
+                "sha256": "df901c30a0d1c9d54182dbfcd98e9f12828707f78ff617d7c521e30591fdd221"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/570b98d20aa6265d19190c12e534893c.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 321078,
+            "hashes": {
+                "sha256": "48759af4f8f3340d609fc63ee52a848275aa2dcc735a6fa384475462a12df65f"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/5dcead4859c2d0a07b6b6e42b03a52fc.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 289130,
+            "hashes": {
+                "sha256": "6705ce406f9f4f917dfe5e4ed1a583d98b991f13a4b88c278f5f212f43a5c82c"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/79c9b771b0797859287d1161ee3a0f09.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 327545,
+            "hashes": {
+                "sha256": "7cb401b34df6f09de66ebb67cc62169f234bff02b8ab7e860b154bc51e5c6c1f"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/8503fe3815375719db0414d26fa43c51.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 318333,
+            "hashes": {
+                "sha256": "6ab110a81c5d8cf422db4ac56bfbc97eb21d055f4d3d1562bf39f24a18d47c0a"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/caf705b50e313d15985159200f92cd93.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 339416,
+            "hashes": {
+                "sha256": "8226144ed5808586782eef40237b67a538f6cbcb22a02c76b45fa56a03a2348f"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/e908fdb022f944a832e4dbebe1454a4b.jpg"
+        },
+        {
+            "bucket": "image",
+            "bytes": 333748,
+            "hashes": {
+                "sha256": "60f05d4a0a416992ca2c18e8dcef024dbef19f7209b3e7ebd19f2f0453cf2d48"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/02/fa199db717c1810a75155eba9f5ea183.jpg"
+        }
+    ],
+    "author": {
+        "publicId": "bc1b2803-7b60-4420-ad71-9727ec08e27d"
+    },
+    "content": {
+        "body": {
+            "en": {
+                "strictHash": "2c392fad14826bc097b2aa778688090e24762af8e32e9881f3a1bfb73252d8b6",
+                "wideHash": "6538b77992c83d0158f79cbbe8fbddadf16b0583625e37b622ae118a3d862a71"
+            },
+            "kk": {
+                "strictHash": "2c392fad14826bc097b2aa778688090e24762af8e32e9881f3a1bfb73252d8b6",
+                "wideHash": "6538b77992c83d0158f79cbbe8fbddadf16b0583625e37b622ae118a3d862a71"
+            },
+            "ru": {
+                "strictHash": "2c392fad14826bc097b2aa778688090e24762af8e32e9881f3a1bfb73252d8b6",
+                "wideHash": "6538b77992c83d0158f79cbbe8fbddadf16b0583625e37b622ae118a3d862a71"
+            },
+            "uk": {
+                "strictHash": "2c392fad14826bc097b2aa778688090e24762af8e32e9881f3a1bfb73252d8b6",
+                "wideHash": "6538b77992c83d0158f79cbbe8fbddadf16b0583625e37b622ae118a3d862a71"
+            }
+        },
+        "description": {
+            "en": {
+                "strictHash": "d5077cb603fafac5793ef4a50eb9783f4644275ab34e135ba88e40dec863053a",
+                "wideHash": "d5077cb603fafac5793ef4a50eb9783f4644275ab34e135ba88e40dec863053a"
+            },
+            "kk": {
+                "strictHash": "d5077cb603fafac5793ef4a50eb9783f4644275ab34e135ba88e40dec863053a",
+                "wideHash": "d5077cb603fafac5793ef4a50eb9783f4644275ab34e135ba88e40dec863053a"
+            },
+            "ru": {
+                "strictHash": "d5077cb603fafac5793ef4a50eb9783f4644275ab34e135ba88e40dec863053a",
+                "wideHash": "d5077cb603fafac5793ef4a50eb9783f4644275ab34e135ba88e40dec863053a"
+            },
+            "uk": {
+                "strictHash": "d5077cb603fafac5793ef4a50eb9783f4644275ab34e135ba88e40dec863053a",
+                "wideHash": "d5077cb603fafac5793ef4a50eb9783f4644275ab34e135ba88e40dec863053a"
+            }
+        },
+        "title": {
+            "en": {
+                "strictHash": "52424a30f7e134144c84bf91e4c55f397b420cc2e76182a47c4e6e90a80a45c6",
+                "wideHash": "52424a30f7e134144c84bf91e4c55f397b420cc2e76182a47c4e6e90a80a45c6"
+            },
+            "kk": {
+                "strictHash": "52424a30f7e134144c84bf91e4c55f397b420cc2e76182a47c4e6e90a80a45c6",
+                "wideHash": "52424a30f7e134144c84bf91e4c55f397b420cc2e76182a47c4e6e90a80a45c6"
+            },
+            "ru": {
+                "strictHash": "52424a30f7e134144c84bf91e4c55f397b420cc2e76182a47c4e6e90a80a45c6",
+                "wideHash": "52424a30f7e134144c84bf91e4c55f397b420cc2e76182a47c4e6e90a80a45c6"
+            },
+            "uk": {
+                "strictHash": "52424a30f7e134144c84bf91e4c55f397b420cc2e76182a47c4e6e90a80a45c6",
+                "wideHash": "52424a30f7e134144c84bf91e4c55f397b420cc2e76182a47c4e6e90a80a45c6"
+            }
+        }
+    },
+    "events": [
+        {
+            "timestamp": "2026-02-28T09:50:00+00:00",
+            "type": "created"
+        }
+    ],
+    "manifest": {
+        "canonicalization": {
+            "algorithm": "php-ksort-recursive+content-empty-map-as-object+json-encode-unescaped-non-pretty",
+            "jsonOptions": [
+                "JSON_UNESCAPED_UNICODE",
+                "JSON_UNESCAPED_SLASHES",
+                "JSON_THROW_ON_ERROR"
+            ]
+        },
+        "exclude": [
+            "manifest.contentRootHash"
+        ],
+        "hashAlgorithm": "sha256",
+        "manifestCreatedAt": "2026-02-28T09:50:00+00:00",
+        "manifestVersion": "pm-1",
+        "normalizerVersion": "norm-v1",
+        "prevContentRootHash": null,
+        "contentRootHash": "bfcf4a939af536ce6097ee4f8e678be7ac8ae75924ff3bed5cbe0e5ba7647257"
+    },
+    "post": {
+        "canonicalUrl": "https://nova30.studio/blog/post/3",
+        "deleted": false,
+        "id": 3,
+        "lastUpdatedAt": "2026-02-28T09:50:00+00:00",
+        "published": true
+    }
+}
