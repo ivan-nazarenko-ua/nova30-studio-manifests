@@ -1,0 +1,154 @@
+{
+    "attachments": [],
+    "author": {
+        "publicId": "bc1b2803-7b60-4420-ad71-9727ec08e27d"
+    },
+    "content": {
+        "body": {
+            "en": {
+                "strictHash": "ece8b3e1148d1109fb17cdb1ec5cd825f31f76620d5571f20e2b3ce7cfcfd638",
+                "wideHash": "c73c687334080139404f6307edb320ac0ff314b61e3d63dfdd18318d4d08c82f"
+            },
+            "kk": {
+                "strictHash": "faa0e6b642a6b3670da56615fcb626bc97be8f5b090b0b3787c2f8eb3ff70090",
+                "wideHash": "b2a611fc623dedf0d41785c569b5cdac0675b51ceb89f37348a0240ffee47d6d"
+            },
+            "ru": {
+                "strictHash": "7941ae8ef98809c87c65a12b65e55f96d8e3712100a4c8f9df04cf9cf689cadd",
+                "wideHash": "57e4057c6437959ddb10ff6b21198c6ba7aaecc08abf05dd85facaad045fe884"
+            },
+            "uk": {
+                "strictHash": "05c8be01d278f63d016e4aee1c424db31725b1e3122f6c8c4aba8fc2adbf2eba",
+                "wideHash": "4987f8a4e237a9fffb5a9f9d3604554f7a17914f6e7d9fbbcb2eaa19d573d649"
+            }
+        },
+        "description": {
+            "en": {
+                "strictHash": "6b6d870624768194dcaee3533bc84311b6e804428e0835ba09b92b124bcb0e5a",
+                "wideHash": "220d28ac0da57eb7cc66acb9e173558beafdbc8368276d9c4f6b31dbdc3f0b22"
+            },
+            "kk": {
+                "strictHash": "6a1cd1b08c60843cc8a0912b2b6d38281d86e9bae7621a3c53e72e6967b7a288",
+                "wideHash": "44e0bd4a1122fa9b0c2f1a185e8ffd909c7d67450c3fcd7df4202ecaf286753a"
+            },
+            "ru": {
+                "strictHash": "455d6bad414cc34cb9dcf0df1461e5303816b42965d2d3ac7832a44fe066484a",
+                "wideHash": "8c699c2a37f8daa707089c0ae56841a79611275374d9deceb582be471282a12f"
+            },
+            "uk": {
+                "strictHash": "8d3c28b343de724c13b6f9cdfb3ddb0b1cafa322b75b3e090797fcaa14bb085d",
+                "wideHash": "0c65ad324a72406c229c9a08dac6fdd1c7509e0148deb299a77fa8476c28fede"
+            }
+        },
+        "title": {
+            "en": {
+                "strictHash": "c6bc62771fd13a8ce5e685d9b7e979eac6665a7d87da673f69e907332d28b305",
+                "wideHash": "c6bc62771fd13a8ce5e685d9b7e979eac6665a7d87da673f69e907332d28b305"
+            },
+            "kk": {
+                "strictHash": "95a10dd60b5e63099a946e8d51004b3a7464ec72a67d04fbeb9bcef1084b8e47",
+                "wideHash": "95a10dd60b5e63099a946e8d51004b3a7464ec72a67d04fbeb9bcef1084b8e47"
+            },
+            "ru": {
+                "strictHash": "305df8380bc74c3f589070e70de3cb1f6cb7b44dc00765ec2e513c0386b2c429",
+                "wideHash": "305df8380bc74c3f589070e70de3cb1f6cb7b44dc00765ec2e513c0386b2c429"
+            },
+            "uk": {
+                "strictHash": "775964abdcc1b7e49ec1cdd9d4faaecb58379a7a8d89d4a64813a802e571619b",
+                "wideHash": "775964abdcc1b7e49ec1cdd9d4faaecb58379a7a8d89d4a64813a802e571619b"
+            }
+        }
+    },
+    "events": [
+        {
+            "timestamp": "2026-03-01T23:27:54+00:00",
+            "type": "created"
+        },
+        {
+            "timestamp": "2026-03-01T23:40:31+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:41:02+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:41:53+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:48:34+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:48:55+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:49:16+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:49:33+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:50:08+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:50:29+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:50:43+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:54:28+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:54:43+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:59:37+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:59:48+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T23:59:58+00:00",
+            "type": "published"
+        }
+    ],
+    "manifest": {
+        "canonicalization": {
+            "algorithm": "php-ksort-recursive+content-empty-map-as-object+json-encode-unescaped-non-pretty",
+            "jsonOptions": [
+                "JSON_UNESCAPED_UNICODE",
+                "JSON_UNESCAPED_SLASHES",
+                "JSON_THROW_ON_ERROR"
+            ]
+        },
+        "exclude": [
+            "manifest.contentRootHash"
+        ],
+        "hashAlgorithm": "sha256",
+        "manifestCreatedAt": "2026-03-01T23:59:58+00:00",
+        "manifestVersion": "pm-1",
+        "normalizerVersion": "norm-v1",
+        "prevContentRootHash": "6a4db28b4f7148a861251e74c440d216f2e0e471522c3cb2e3c5fa17db6f5359",
+        "contentRootHash": "5e0400cdad009906355f98275f743a4ea74dbbf395af5109585384cbb3d225b2"
+    },
+    "post": {
+        "canonicalUrl": "https://nova30.studio/blog/post/6",
+        "deleted": false,
+        "id": 6,
+        "lastUpdatedAt": "2026-03-01T23:59:58+00:00",
+        "published": true
+    }
+}

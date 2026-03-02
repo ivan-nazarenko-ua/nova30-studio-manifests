@@ -1,0 +1,292 @@
+{
+    "attachments": [
+        {
+            "bucket": "generic",
+            "bytes": 24847,
+            "hashes": {
+                "sha256": "dfdeedb60e522bcdc859ae3f3f443ec9996bed9c44c738464cb8aa3a6db2d4ab"
+            },
+            "mimeType": "text/plain",
+            "storagePath": "/2026/03/35fe8016f590c30ae5bd7b6ca2c50e08.txt"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 119926,
+            "hashes": {
+                "sha256": "4f515bad572b1fde1e09c7dd702ff858f08a6ae392180f4583de24b254a16164"
+            },
+            "mimeType": "application/pdf",
+            "storagePath": "/2026/03/3a45394fccf81d6e6124c88b81558454.pdf"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 22582,
+            "hashes": {
+                "sha256": "b382c54073bd7003f599f505a6e792a4613955ce351b7cebff16fe691812a5e1"
+            },
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "storagePath": "/2026/03/47b76b07fa482770088cff207326c6b7.docx"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 119666,
+            "hashes": {
+                "sha256": "99eb370f5a0086d930776a8a8fd08665decf918d6e045a28fbf4a36361f4e235"
+            },
+            "mimeType": "application/pdf",
+            "storagePath": "/2026/03/4a28672502ee3bd74b5fa7dc47d60747.pdf"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 24945,
+            "hashes": {
+                "sha256": "fb9dc9376b3fc07f911967f27d46da2055cd9fddb7db82af8a55f108793936d9"
+            },
+            "mimeType": "text/plain",
+            "storagePath": "/2026/03/5e2fca440260a283972438bab52136d6.txt"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 30974,
+            "hashes": {
+                "sha256": "185a3c655636857bd6b2d145d3e2b0c69d10f3e62f5077396683bd5898ec2286"
+            },
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "storagePath": "/2026/03/6081109b658cf1778d3d392ae74a9bb7.docx"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 114086,
+            "hashes": {
+                "sha256": "0ba02b79cd549857844cd093e7752fa480d96db6520348639051dfc9d3277219"
+            },
+            "mimeType": "application/pdf",
+            "storagePath": "/2026/03/6530dcbd045eb5167bfbf9572a56dab0.pdf"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 25130,
+            "hashes": {
+                "sha256": "171330ce483858c78bed28c494d919f564d7059e3304e9e5e74e833ba9c54155"
+            },
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "storagePath": "/2026/03/8326cee09408e4417b4bb70bcdf33c87.docx"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 121113,
+            "hashes": {
+                "sha256": "d6c4fa51f0c826933f6d3b8dc660638062145584b2cffc2e0a6af731ec396896"
+            },
+            "mimeType": "application/pdf",
+            "storagePath": "/2026/03/a820fc3593e814c54e99964bd7746506.pdf"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 15579,
+            "hashes": {
+                "sha256": "332224ff1ac8bdd088fe721b53ba24a0741ca5cdd068cb1c75663836cf467b75"
+            },
+            "mimeType": "text/plain",
+            "storagePath": "/2026/03/b059f475f836a5be69ea126f2a1f74fb.txt"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 32524,
+            "hashes": {
+                "sha256": "b4b524a976f75c27ffd6bde17905047e679b8062184d255be17e2b589e44d34c"
+            },
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "storagePath": "/2026/03/d16b46164cb00b3fded0b64ef55a5a75.docx"
+        },
+        {
+            "bucket": "generic",
+            "bytes": 25218,
+            "hashes": {
+                "sha256": "ddd2c48b2e7d8fc9b817d0dfc79b45b365761f4ebefeb37d0315808b98b79303"
+            },
+            "mimeType": "text/plain",
+            "storagePath": "/2026/03/e0f10fc515d056daf2d1761595fcba22.txt"
+        },
+        {
+            "bucket": "image",
+            "bytes": 441434,
+            "hashes": {
+                "sha256": "23af4dd2797e31ea20136a8cfd7eb91633f485ff001376d662a6a3c95bf34c38"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/03/78964b7f3adef887e74d335b36bafd75.jpeg"
+        }
+    ],
+    "author": {
+        "publicId": "bc1b2803-7b60-4420-ad71-9727ec08e27d"
+    },
+    "content": {
+        "body": {
+            "en": {
+                "strictHash": "d73ec6ebd11a97b0619742b862ddef6664068904fc4f87f9405fa966fa8a106e",
+                "wideHash": "a241a2542b5a2a0a9bc7558b10e341a730cb40606861f2a217f2539f63cd8131"
+            },
+            "kk": {
+                "strictHash": "0a1a88a4367f7a602bdc30cdac34bd1db85be85c4329d5288a42ff622d567068",
+                "wideHash": "0b4147365d36e5e82f79b79b4fadb183c4081de018cf97c081b3d3442d67a38d"
+            },
+            "ru": {
+                "strictHash": "331b90012a159a2280536e5dfe3d4d3aea5abf5d4a3a80efb4e51e0fa41aab89",
+                "wideHash": "5bc8608e984353cab368865f9dc5d1870d87291cc7a96924b543b6d20bca9e25"
+            },
+            "uk": {
+                "strictHash": "bea16a1fa45f66c0709e4b4605a84e380e67a7877e68effe1879465fbdcdde41",
+                "wideHash": "f84b16aac65aa26d0e94a443394469f4ee7f1bcd58ec8672e45a08eb143b13f3"
+            }
+        },
+        "description": {
+            "en": {
+                "strictHash": "02cea0dc5e1f4c69dacb5cc6538aa752cbd16583da283e899a3a4a2d30efc99e",
+                "wideHash": "473fa3d40b08b8f33d12524fc00e5c428672f1152bcd2f1f7732ea942760b323"
+            },
+            "kk": {
+                "strictHash": "bf095914eee582111800b3376c65a3370ce575c6784ee3c6c414436743a70c56",
+                "wideHash": "c5b89a1a89c6b965c21dc455d4fc1f2a95b3529b8be407d4c98b8eb3b36a9a55"
+            },
+            "ru": {
+                "strictHash": "4f4ffd1cf6e8eafda83fed48ca12ed26904c096eafa6da25b136b0b6d098b772",
+                "wideHash": "d29a642140df745f1c78f3fe58eb8d65a0fa69b84ae6c8fca77bfdf7c01919c8"
+            },
+            "uk": {
+                "strictHash": "a2a9d7086f007b6f5267cb79683fa4bff7e64557fc1ae4a68aaae5b312c4edc9",
+                "wideHash": "bdb96d39ef739ecb7547261d4ca5145b6cba7c608d1a354da51096be8e41f639"
+            }
+        },
+        "title": {
+            "en": {
+                "strictHash": "357e4b5c2a4385eac8900ef2b2b880c027446a12256970c57cc5fe670cf8c8be",
+                "wideHash": "357e4b5c2a4385eac8900ef2b2b880c027446a12256970c57cc5fe670cf8c8be"
+            },
+            "kk": {
+                "strictHash": "2a4aa72182c5858f980a8c16af5f450644b752124d672a4bd3b48d2dbe3bcc5a",
+                "wideHash": "2a4aa72182c5858f980a8c16af5f450644b752124d672a4bd3b48d2dbe3bcc5a"
+            },
+            "ru": {
+                "strictHash": "1a611cb7a81a679e86e79122f95e669842b6fa8ad1da9a78dc7d367c229a8929",
+                "wideHash": "1a611cb7a81a679e86e79122f95e669842b6fa8ad1da9a78dc7d367c229a8929"
+            },
+            "uk": {
+                "strictHash": "dbcddda7aef113c79c4863c804978d370b1dbd7a54821d3f08e63b801794a436",
+                "wideHash": "dbcddda7aef113c79c4863c804978d370b1dbd7a54821d3f08e63b801794a436"
+            }
+        }
+    },
+    "events": [
+        {
+            "timestamp": "2026-03-01T13:28:56+00:00",
+            "type": "created"
+        },
+        {
+            "timestamp": "2026-03-01T13:29:43+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:32:11+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:35:12+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:37:01+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:39:33+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:43:15+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:46:59+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:47:44+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:48:20+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:48:35+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:49:03+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:49:45+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:50:05+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:50:20+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:50:38+00:00",
+            "type": "published"
+        },
+        {
+            "timestamp": "2026-03-01T13:52:08+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:52:20+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:52:53+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:53:05+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-01T13:54:39+00:00",
+            "type": "updated"
+        }
+    ],
+    "manifest": {
+        "canonicalization": {
+            "algorithm": "php-ksort-recursive+content-empty-map-as-object+json-encode-unescaped-non-pretty",
+            "jsonOptions": [
+                "JSON_UNESCAPED_UNICODE",
+                "JSON_UNESCAPED_SLASHES",
+                "JSON_THROW_ON_ERROR"
+            ]
+        },
+        "exclude": [
+            "manifest.contentRootHash"
+        ],
+        "hashAlgorithm": "sha256",
+        "manifestCreatedAt": "2026-03-01T13:54:39+00:00",
+        "manifestVersion": "pm-1",
+        "normalizerVersion": "norm-v1",
+        "prevContentRootHash": "526da0f1080fc300c470a537ec8db3f069b34dc3be15a29b3f6efa9c6491b5e8",
+        "contentRootHash": "beb47bc88fff691eb2aa0aa417a024b2ee4422f48c37513e7961f312235296f3"
+    },
+    "post": {
+        "canonicalUrl": "https://nova30.studio/blog/post/5",
+        "deleted": false,
+        "id": 5,
+        "lastUpdatedAt": "2026-03-01T13:54:39+00:00",
+        "published": true
+    }
+}
