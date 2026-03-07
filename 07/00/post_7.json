@@ -1,0 +1,114 @@
+{
+    "attachments": [],
+    "author": {
+        "publicId": "bc1b2803-7b60-4420-ad71-9727ec08e27d"
+    },
+    "content": {
+        "body": {
+            "en": {
+                "strictHash": "b49ff485208f6460f4b3769bb373766ae1f1eeb5569e69b4d84d89cccbad3222",
+                "wideHash": "70448e89700d387ef4872ecb911265ad04859d8991feee84624ad512c68c450e"
+            },
+            "kk": {
+                "strictHash": "aa8649cfafe1e3d58c76d19eba04314731bb53f9264fee9f2089c7751b9476a3",
+                "wideHash": "7acc6ce12be9aaf3d5030e3180b38667ce5f9235718c20129a8eb8689b3517e9"
+            },
+            "ru": {
+                "strictHash": "47ca1105d2d89e756bd4660629604d194a0b8641e00766e25475cf24534977b8",
+                "wideHash": "df2c54c633b111ac567e2a2b10b40c8a08e1a0522ec5171e728ba09eab89e8a8"
+            },
+            "uk": {
+                "strictHash": "c6147b10ad2635937d1c6ad33a4e5296b3aa7dc4fd8ae75741b81c44c699299f",
+                "wideHash": "ab9d508f0b0724cc8f87811f5703078730630e4896a93d94aa704dcd881216eb"
+            }
+        },
+        "description": {
+            "en": {
+                "strictHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69",
+                "wideHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69"
+            },
+            "kk": {
+                "strictHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69",
+                "wideHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69"
+            },
+            "ru": {
+                "strictHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69",
+                "wideHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69"
+            },
+            "uk": {
+                "strictHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69",
+                "wideHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69"
+            }
+        },
+        "title": {
+            "en": {
+                "strictHash": "aa5af4084f3746bb29a29fd6ccc017a7dd49ca3b79dbeb2ec8fdbcd1ca3c50ce",
+                "wideHash": "aa5af4084f3746bb29a29fd6ccc017a7dd49ca3b79dbeb2ec8fdbcd1ca3c50ce"
+            },
+            "kk": {
+                "strictHash": "440f4bf1fcd0402ed45cd5d9b6155e1716f99c0af23b2957b945f9f91018876a",
+                "wideHash": "440f4bf1fcd0402ed45cd5d9b6155e1716f99c0af23b2957b945f9f91018876a"
+            },
+            "ru": {
+                "strictHash": "f7364f32be0f89563fb55c48e26162cc090f602e8d994aa54d94d524785765fa",
+                "wideHash": "f7364f32be0f89563fb55c48e26162cc090f602e8d994aa54d94d524785765fa"
+            },
+            "uk": {
+                "strictHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69",
+                "wideHash": "cc838d80a875a35487591886bbcb4838471a71ebcb35535ecac180e34ad56f69"
+            }
+        }
+    },
+    "events": [
+        {
+            "timestamp": "2026-03-06T20:58:42+00:00",
+            "type": "created"
+        },
+        {
+            "timestamp": "2026-03-06T21:29:48+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-06T21:31:58+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-06T21:32:55+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-06T21:33:25+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-06T21:33:52+00:00",
+            "type": "updated"
+        }
+    ],
+    "manifest": {
+        "canonicalization": {
+            "algorithm": "php-ksort-recursive+content-empty-map-as-object+json-encode-unescaped-non-pretty",
+            "jsonOptions": [
+                "JSON_UNESCAPED_UNICODE",
+                "JSON_UNESCAPED_SLASHES",
+                "JSON_THROW_ON_ERROR"
+            ]
+        },
+        "exclude": [
+            "manifest.contentRootHash"
+        ],
+        "hashAlgorithm": "sha256",
+        "manifestCreatedAt": "2026-03-06T21:33:52+00:00",
+        "manifestVersion": "pm-1",
+        "normalizerVersion": "norm-v1",
+        "prevContentRootHash": "94186987f2a290154b569e88ca61de7fdd7f8d76e819fbe912abb7f580570e81",
+        "contentRootHash": "8b3e2fb1020cca53d58be1f484c83256b58c40aaf97742d685f1c9e896b9e970"
+    },
+    "post": {
+        "canonicalUrl": "https://nova30.studio/blog/post/7",
+        "deleted": false,
+        "id": 7,
+        "lastUpdatedAt": "2026-03-06T21:33:52+00:00",
+        "published": true
+    }
+}
