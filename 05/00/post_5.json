@@ -261,6 +261,10 @@
         {
             "timestamp": "2026-03-01T13:54:39+00:00",
             "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-12T20:32:40+00:00",
+            "type": "updated"
         }
     ],
     "manifest": {
@@ -276,17 +280,17 @@
             "manifest.contentRootHash"
         ],
         "hashAlgorithm": "sha256",
-        "manifestCreatedAt": "2026-03-01T13:54:39+00:00",
+        "manifestCreatedAt": "2026-03-12T20:32:40+00:00",
         "manifestVersion": "pm-1",
         "normalizerVersion": "norm-v1",
-        "prevContentRootHash": "526da0f1080fc300c470a537ec8db3f069b34dc3be15a29b3f6efa9c6491b5e8",
-        "contentRootHash": "beb47bc88fff691eb2aa0aa417a024b2ee4422f48c37513e7961f312235296f3"
+        "prevContentRootHash": "beb47bc88fff691eb2aa0aa417a024b2ee4422f48c37513e7961f312235296f3",
+        "contentRootHash": "e45d01adf6339ab279ce129478df56bc5fd00c9b1ecb421aa0459fb14f115e68"
     },
     "post": {
         "canonicalUrl": "https://nova30.studio/blog/post/5",
         "deleted": false,
         "id": 5,
-        "lastUpdatedAt": "2026-03-01T13:54:39+00:00",
+        "lastUpdatedAt": "2026-03-12T20:32:40+00:00",
         "published": true
     }
 }
