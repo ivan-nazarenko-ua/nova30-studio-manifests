@@ -10,8 +10,8 @@
                 "wideHash": "db9203c4712fbb1c52639ca9f1d428eb4f93900e2bfc5cca21eb11038e81670c"
             },
             "kk": {
-                "strictHash": "06fcbe9b7f8c2b4f5fbe8ba008e11933f5a74071c445be0a7d8b4c8fa3fce4bc",
-                "wideHash": "9940ae21baac2a2d2ed96d5b2dd276c4fbbc2d25ba784669326408c46c10e87d"
+                "strictHash": "b05f733fce34c2616f2862533e4bf81650a42b99dbe5b6df66b1cb442b8114b1",
+                "wideHash": "d93bd369d40746b27dac0208f6fdecdab91c7bd51b0f73c5e3847c467e626c8b"
             },
             "ru": {
                 "strictHash": "e379fe22549890116dd59ad04a571dd83d3c287d2516d345552b9f84424bb060",
@@ -29,8 +29,8 @@
                 "wideHash": "2b72811d5f06762fb4a13593977a2c4f1f709ecaa4ffec391f6767dd8f51450f"
             },
             "kk": {
-                "strictHash": "33c479b40de6285d760893759183730e535e121b636fccf1a628876df093f95b",
-                "wideHash": "33c479b40de6285d760893759183730e535e121b636fccf1a628876df093f95b"
+                "strictHash": "828480b494162055504c54524408d21e4a039cdd80006e004be70acd98671c22",
+                "wideHash": "828480b494162055504c54524408d21e4a039cdd80006e004be70acd98671c22"
             },
             "ru": {
                 "strictHash": "c73562eefc58bef2d338cdba05d03bf725ca5873cbac1adab5110abb2fa20722",
@@ -94,6 +94,10 @@
         {
             "timestamp": "2026-02-26T23:32:12+00:00",
             "type": "updated"
+        },
+        {
+            "timestamp": "2026-03-14T22:14:33+00:00",
+            "type": "updated"
         }
     ],
     "manifest": {
@@ -109,17 +113,17 @@
             "manifest.contentRootHash"
         ],
         "hashAlgorithm": "sha256",
-        "manifestCreatedAt": "2026-02-26T23:32:12+00:00",
+        "manifestCreatedAt": "2026-03-14T22:14:33+00:00",
         "manifestVersion": "pm-1",
         "normalizerVersion": "norm-v1",
-        "prevContentRootHash": "cbea08934f82dc901709e47c6179b0353de80416d885266a69d04f9c8ae60965",
-        "contentRootHash": "e7175fb98df934e73bf74300a17bf6a8ec148038496ddda11316501b9c9007ca"
+        "prevContentRootHash": "e7175fb98df934e73bf74300a17bf6a8ec148038496ddda11316501b9c9007ca",
+        "contentRootHash": "3225e2ed5df4eba8db945e38f2ce342797fb5c28c89141109c49bd275b97a4a9"
     },
     "post": {
         "canonicalUrl": "https://nova30.studio/blog/post/2",
         "deleted": false,
         "id": 2,
-        "lastUpdatedAt": "2026-02-26T23:32:12+00:00",
+        "lastUpdatedAt": "2026-03-14T22:14:33+00:00",
         "published": true
     }
 }
