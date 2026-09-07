@@ -1,103 +1,103 @@
 {
     "attachments": [
         {
-            "bucket": "image",
-            "bytes": 295806,
-            "hashes": {
-                "sha256": "02e78abbc7268caca2bf03a09d9f531eed99060886356e1cade446248e123a35"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/11563c96a0d141cf02fc5a3beca3b243.jpg"
-        },
-        {
-            "bucket": "image",
-            "bytes": 395785,
-            "hashes": {
-                "sha256": "1c9c655e82e129d21d161f1af4703715cc7cf6c2654f5203114d6676d83e955f"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/3a21bfa868df3f33129c654ea617ad23.jpg"
-        },
-        {
-            "bucket": "image",
-            "bytes": 351765,
-            "hashes": {
-                "sha256": "e307cabbdf73d35f0bb0d50cd71de593657a0f85c0680e81fd746827821d91fe"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/515521aaa80e31520f32cd7c77a08b21.jpg"
-        },
-        {
-            "bucket": "image",
-            "bytes": 332857,
-            "hashes": {
-                "sha256": "43c0f937461de353873c2ba56ffc37627d13da46038f1ba8a58d1a0bf612f445"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/5260d23b04c58211162331c7fc327194.jpg"
-        },
-        {
-            "bucket": "image",
-            "bytes": 297474,
-            "hashes": {
-                "sha256": "df901c30a0d1c9d54182dbfcd98e9f12828707f78ff617d7c521e30591fdd221"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/570b98d20aa6265d19190c12e534893c.jpg"
-        },
-        {
-            "bucket": "image",
-            "bytes": 321078,
-            "hashes": {
-                "sha256": "48759af4f8f3340d609fc63ee52a848275aa2dcc735a6fa384475462a12df65f"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/5dcead4859c2d0a07b6b6e42b03a52fc.jpg"
-        },
-        {
-            "bucket": "image",
-            "bytes": 289130,
-            "hashes": {
-                "sha256": "6705ce406f9f4f917dfe5e4ed1a583d98b991f13a4b88c278f5f212f43a5c82c"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/79c9b771b0797859287d1161ee3a0f09.jpg"
-        },
-        {
-            "bucket": "image",
-            "bytes": 327545,
-            "hashes": {
-                "sha256": "7cb401b34df6f09de66ebb67cc62169f234bff02b8ab7e860b154bc51e5c6c1f"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/8503fe3815375719db0414d26fa43c51.jpg"
-        },
-        {
-            "bucket": "image",
-            "bytes": 318333,
-            "hashes": {
-                "sha256": "6ab110a81c5d8cf422db4ac56bfbc97eb21d055f4d3d1562bf39f24a18d47c0a"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/caf705b50e313d15985159200f92cd93.jpg"
-        },
-        {
-            "bucket": "image",
-            "bytes": 339416,
-            "hashes": {
-                "sha256": "8226144ed5808586782eef40237b67a538f6cbcb22a02c76b45fa56a03a2348f"
-            },
-            "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/e908fdb022f944a832e4dbebe1454a4b.jpg"
-        },
-        {
-            "bucket": "image",
+            "bucket": "gallery-item",
             "bytes": 333748,
             "hashes": {
                 "sha256": "60f05d4a0a416992ca2c18e8dcef024dbef19f7209b3e7ebd19f2f0453cf2d48"
             },
             "mimeType": "image/jpeg",
-            "storagePath": "/2026/02/fa199db717c1810a75155eba9f5ea183.jpg"
+            "storagePath": "/2026/09/65a631681f551c4bfa4630b0e0d40790.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 289130,
+            "hashes": {
+                "sha256": "6705ce406f9f4f917dfe5e4ed1a583d98b991f13a4b88c278f5f212f43a5c82c"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/78f6bcae073244e51a3663b61b8cb72e.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 339416,
+            "hashes": {
+                "sha256": "8226144ed5808586782eef40237b67a538f6cbcb22a02c76b45fa56a03a2348f"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/80b35e85b110c324b5ee87b89cbc95a1.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 351765,
+            "hashes": {
+                "sha256": "e307cabbdf73d35f0bb0d50cd71de593657a0f85c0680e81fd746827821d91fe"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/842a6937056aa585561f34e2b803b828.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 321078,
+            "hashes": {
+                "sha256": "48759af4f8f3340d609fc63ee52a848275aa2dcc735a6fa384475462a12df65f"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/845d0d27e37a59482ca7fc639469a825.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 332857,
+            "hashes": {
+                "sha256": "43c0f937461de353873c2ba56ffc37627d13da46038f1ba8a58d1a0bf612f445"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/99fc1d4fc80133863bc37fc4e155d97f.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 327545,
+            "hashes": {
+                "sha256": "7cb401b34df6f09de66ebb67cc62169f234bff02b8ab7e860b154bc51e5c6c1f"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/ae0d7f29789c3b1e4fb12a16b4297a04.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 295806,
+            "hashes": {
+                "sha256": "02e78abbc7268caca2bf03a09d9f531eed99060886356e1cade446248e123a35"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/c09f081503dd8ca2470d2a3d6f878704.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 318333,
+            "hashes": {
+                "sha256": "6ab110a81c5d8cf422db4ac56bfbc97eb21d055f4d3d1562bf39f24a18d47c0a"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/dc60640711e496a809fb5508cc22f628.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 297474,
+            "hashes": {
+                "sha256": "df901c30a0d1c9d54182dbfcd98e9f12828707f78ff617d7c521e30591fdd221"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/e7a167e6bb7366670b82cd6556ed7b99.jpg"
+        },
+        {
+            "bucket": "gallery-item",
+            "bytes": 395785,
+            "hashes": {
+                "sha256": "1c9c655e82e129d21d161f1af4703715cc7cf6c2654f5203114d6676d83e955f"
+            },
+            "mimeType": "image/jpeg",
+            "storagePath": "/2026/09/fd55de96d2605ede0d13a55bf0c37ce8.jpg"
         }
     ],
     "author": {
@@ -163,6 +163,10 @@
         {
             "timestamp": "2026-02-28T09:50:00+00:00",
             "type": "created"
+        },
+        {
+            "timestamp": "2026-09-06T20:36:17+00:00",
+            "type": "updated"
         }
     ],
     "manifest": {
@@ -174,21 +178,22 @@
                 "JSON_THROW_ON_ERROR"
             ]
         },
+        "contentOnlyHash": "a3db507669f1eb6ac7863bb5b315fec4f07efb53c9c07dd47eab652e4faf96ad",
         "exclude": [
             "manifest.contentRootHash"
         ],
         "hashAlgorithm": "sha256",
-        "manifestCreatedAt": "2026-02-28T09:50:00+00:00",
+        "manifestCreatedAt": "2026-09-06T20:36:17+00:00",
         "manifestVersion": "pm-1",
         "normalizerVersion": "norm-v1",
-        "prevContentRootHash": null,
-        "contentRootHash": "bfcf4a939af536ce6097ee4f8e678be7ac8ae75924ff3bed5cbe0e5ba7647257"
+        "prevContentRootHash": "bfcf4a939af536ce6097ee4f8e678be7ac8ae75924ff3bed5cbe0e5ba7647257",
+        "contentRootHash": "499e4e1421fea2fe31c0bb46a1c9b3ba1dacc842121f45c6374b00d40537b70b"
     },
     "post": {
-        "canonicalUrl": "https://nova30.studio/blog/post/3",
+        "canonicalUrl": "https://nova30.studio/blog/3/show",
         "deleted": false,
         "id": 3,
-        "lastUpdatedAt": "2026-02-28T09:50:00+00:00",
+        "lastUpdatedAt": "2026-09-06T20:36:17+00:00",
         "published": true
     }
 }

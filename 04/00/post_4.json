@@ -160,6 +160,22 @@
         {
             "timestamp": "2026-03-15T14:32:03+00:00",
             "type": "updated"
+        },
+        {
+            "timestamp": "2026-09-06T20:55:04+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-09-06T20:55:24+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-09-06T20:55:41+00:00",
+            "type": "updated"
+        },
+        {
+            "timestamp": "2026-09-06T20:55:56+00:00",
+            "type": "updated"
         }
     ],
     "manifest": {
@@ -171,21 +187,22 @@
                 "JSON_THROW_ON_ERROR"
             ]
         },
+        "contentOnlyHash": "ca5b0b91d2b54e0e2ffb10713883cbd2d021bcb5a240ea3c7f90181a44a0574a",
         "exclude": [
             "manifest.contentRootHash"
         ],
         "hashAlgorithm": "sha256",
-        "manifestCreatedAt": "2026-03-15T14:32:03+00:00",
+        "manifestCreatedAt": "2026-09-06T20:55:56+00:00",
         "manifestVersion": "pm-1",
         "normalizerVersion": "norm-v1",
-        "prevContentRootHash": "7a3d7f95ed4c1d4742eec3f9609a72095afaf830d7ec3fe2b172d01cfd9a91e7",
-        "contentRootHash": "b902b0ac5d300e60f524d78d9d92dadebd791ac4f6728c1c1686ea45fb103cda"
+        "prevContentRootHash": "816808dae77ec4d101aed61cdec0e1cdf3bdd856dbc10a98644cee8e3a79c21d",
+        "contentRootHash": "ae29e26448b19434ba5901c29c2f4f99ea3d138c9d06154e29000c675feccf4c"
     },
     "post": {
-        "canonicalUrl": "https://nova30.studio/blog/post/4",
+        "canonicalUrl": "https://nova30.studio/blog/4/show",
         "deleted": false,
         "id": 4,
-        "lastUpdatedAt": "2026-03-15T14:32:03+00:00",
+        "lastUpdatedAt": "2026-09-06T20:55:56+00:00",
         "published": true
     }
 }
